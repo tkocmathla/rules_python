@@ -27,7 +27,7 @@ The Python-specific directives are:
   multiple Python projects that don't share the top-level of the workspace
   as the root.
   * Default: n/a
-  * Allowed Values: None. This direcive does not consume values.
+  * Allowed Values: None. This directive does not consume values.
 
 [`# gazelle:python_manifest_file_name value`](#python-manifest-file-name)
 : Overrides the default manifest file name.
